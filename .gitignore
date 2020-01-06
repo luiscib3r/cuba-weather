@@ -1,0 +1,6 @@
+/.idea/
+*.pyc
+.vscode
+build
+*.egg-info
+dist
